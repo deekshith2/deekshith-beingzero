@@ -1,0 +1,19 @@
+{
+  "name": "deekshith-beingzero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deekshith2/deekshith-beingzero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deekshith2/deekshith-beingzero/issues"
+  },
+  "homepage": "https://github.com/deekshith2/deekshith-beingzero#readme"
+}
